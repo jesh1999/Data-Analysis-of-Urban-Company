@@ -9,7 +9,8 @@ Data Analysis of Urban Company 📊 aims to leverage operational and service dat
 
 The project involves collecting data from various sources 📥, cleaning and transforming it for analysis 🧹, and applying both descriptive and predictive techniques 🔍 to uncover relationships and predict future service demands 🔮. Visualizations 🎨 will be created to communicate findings effectively, highlighting key insights such as popular services ⭐, peak demand times ⏰, and customer satisfaction levels 🌟.
 
-**https://www.google.com/imgres?q=urban%20company&imgurl=https%3A%2F%2Fres.cloudinary.com%2Furbanclap%2Fimage%2Fupload%2Ft_high_res_template%2Fdpr_2%2Cfl_progressive%3Asteep%2Cq_auto%3Alow%2Cf_auto%2Cc_limit%2Fimages-stage%2Fgrowth%2Fblog%2F1718181912760-5c5c5f.jpeg&imgrefurl=https%3A%2F%2Fwww.urbancompany.com%2Fblog%2Furbanclap-is-now-urban-company&docid=6O54Tw7V1OZLkM&tbnid=OJl5lrUEVxGiGM&vet=12ahUKEwjIx5qCnOCIAxVczzgGHeBWBcMQM3oECGYQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwjIx5qCnOCIAxVczzgGHeBWBcMQM3oECGYQAA**
+![image](https://github.com/user-attachments/assets/04efad67-ef82-434e-a2c3-b60ee33fd71e)
+
 
 **📥 Data Collection**
 **Data Sources:**
