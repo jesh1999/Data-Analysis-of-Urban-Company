@@ -11,6 +11,7 @@ The project involves collecting data from various sources 📥, cleaning and tra
 
 ![image](https://github.com/user-attachments/assets/04efad67-ef82-434e-a2c3-b60ee33fd71e)
 
+![image](https://github.com/user-attachments/assets/83d482b4-4fb6-4ce7-bcf9-9ae3adb7b4db)
 
 **📥 Data Collection**
 **Data Sources:**
